@@ -1,10 +1,21 @@
-### Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sunil8090)](https://git.io/streak-stats)
+
+
 <h2 align="center">Hi 👋! My name is Sunil kumar and I'm a Full Stack Developer, from Karnataka</h2>
 
 ###
 
 
+###Sunil - Full Stack Web Developer
+Greetings! I'm Sunil, a dedicated full-stack web developer with a passion for creating visually appealing and interactive digital experiences. My focus is on building websites that not only function seamlessly but also deliver a refined and engaging user interface.
+
+###Future Endeavors
+Looking ahead, I am eager to delve deeper into the foundational elements of the internet. My aspiration is to contribute to the development of scalable and interactive websites that push the boundaries of digital innovation.
+
+###Outside the Code Realm
+Beyond coding, I find balance through outdoor activities, particularly engaging in various sports. This complements my work in the digital realm and provides a holistic approach to both personal and professional pursuits.
+
+###Collaboration and Communication
+I am open to collaborations and discussions related to web development, technology trends, and innovative projects. Feel free to reach out for professional inquiries, insights, or to explore potential collaborations.
 
 ###
 
@@ -45,6 +56,8 @@
 </div>
 
 ###
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sunil8090)](https://git.io/streak-stats)
 <!--
 **Sunil8090/Sunil8090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
