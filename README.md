@@ -17,9 +17,7 @@ Beyond coding, I find balance through outdoor activities, particularly engaging 
 I am open to collaborations and discussions related to web development, technology trends, and innovative projects. Feel free to reach out for professional inquiries, insights, or to explore potential collaborations. 💬
 
 ## Portfolio
-<div style="padding:10px 20px;background-color:"black;color:white">
-  <a style="text-decoration:none" href="sunil8090.github.io">Visit</a>
-</div>
+<a target="_blank" href="sunil8090.github.io">Sunil8090</a>
 
 ###
 ## Skills
