@@ -17,7 +17,7 @@ Beyond coding, I find balance through outdoor activities, particularly engaging 
 I am open to collaborations and discussions related to web development, technology trends, and innovative projects. Feel free to reach out for professional inquiries, insights, or to explore potential collaborations. 💬
 
 ## Example GIF
-![Example GIF]([https://example.com/your-gif.gif](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif))
+!([https://example.com/your-gif.gif](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif))
 
 ###
 ## Skills
