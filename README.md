@@ -5,12 +5,10 @@
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=sunil8090" alt="sunil8090" /></a> </p>
 
 ###
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="right" width="300" height="300" />
 
 
-👋 Welcome to my web portfolio! Explore my projects and experiences as I journey through the world of coding and design. 🚀 | <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="470px" alt="html5 logo"  /> 
-
-
+👋 Welcome to my web portfolio! Explore my projects and experiences as I journey through the world of coding and design. 🚀 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=4cd964&size=24&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
 
