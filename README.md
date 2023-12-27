@@ -22,7 +22,7 @@ Beyond coding, I find balance through outdoor activities, particularly engaging 
 I am open to collaborations and discussions related to web development, technology trends, and innovative projects. Feel free to reach out for professional inquiries, insights, or to explore potential collaborations. 💬
 
 ## Portfolio
-<button style="color:red"><a target="_blank" href="https://sunil8090.github.io/">Sunil8090</a></button>
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sunil8090.github.io/)
 
 
