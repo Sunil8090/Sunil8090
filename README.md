@@ -12,6 +12,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=4cd964&size=24&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+
 ## Future Endeavors 🌐
 Looking ahead, I am eager to delve deeper into the foundational elements of the internet. My aspiration is to contribute to the development of scalable and interactive websites that push the boundaries of digital innovation. 🔍
 
