@@ -7,8 +7,14 @@
 ###
 
 
-| Your text here   | ![Coding GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif) |
-
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1;">
+        Your text here
+    </div>
+    <div style="flex: 1;">
+        ![Coding GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+    </div>
+</div>
 
 
 
