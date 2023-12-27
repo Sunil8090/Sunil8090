@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi 👋! My name is Sunil kumar and I'm a Full Stack Developer, from Karnataka</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunil8090" alt="sunil8090" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=sunil8090" alt="sunil8090" /></a> </p>
 
 ###
 
