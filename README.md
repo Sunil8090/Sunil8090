@@ -10,7 +10,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="470px" alt="coding..." />
 </p>
 
-
+| Text on the Left | Image on the Right |
 |------------------|--------------------|
 | Greetings! I'm Sunil, a dedicated full-stack web developer with a passion for creating visually appealing and interactive digital experiences. My focus is on building websites that not only function seamlessly but also deliver a refined and engaging user interface. 🚀   | ![Coding GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif) |
 
